@@ -1,2 +1,2 @@
-# terraform-course
-Repository for Terraform files in Linux Academy course!
+# terraform
+Code repository for all the terraform code used in the videos
